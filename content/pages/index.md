@@ -589,13 +589,13 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: So… how does it work?
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: It’s just 3 simple steps
     items:
       - title: Feature Item One
         tagline: This is the tagline
