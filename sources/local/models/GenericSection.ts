@@ -20,7 +20,7 @@ export const GenericSection: Model = {
             name: 'subtitle',
             label: 'Subtitle',
             required: false,
-            default: 'This is a subtitle',
+            default: 'Unlock your world',
             hidden: false,
             localized: false
         },
