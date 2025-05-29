@@ -11,7 +11,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Top Up Now",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +19,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "About Us",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Help",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
