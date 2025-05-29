@@ -10,7 +10,7 @@ export const Badge: Model = {
       type: 'string',
       name: 'label',
       label: 'Label',
-      description: 'The text in the badge',
+      description: 'eSIM for a Lifetime',
       required: true,
       default: 'Travel eSIM for a Lifetime',
       hidden: false,
