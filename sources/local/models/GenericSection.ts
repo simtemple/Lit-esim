@@ -20,7 +20,7 @@ export const GenericSection: Model = {
             name: 'subtitle',
             label: 'Subtitle',
             required: false,
-            default: 'Unlock your world',
+            default: 'Travel eSIM for a Lifetime',
             hidden: false,
             localized: false
         },
