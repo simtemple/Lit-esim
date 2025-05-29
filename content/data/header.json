@@ -41,7 +41,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Destinations",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
