@@ -35,17 +35,7 @@ sections:
       altText: Unblock your world
    elementId: ''
       type: ImageBlock
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
+   justifyContent: center
       subtitle:
         textAlign: center
   - subtitle: Popular Destinations
