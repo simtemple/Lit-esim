@@ -34,7 +34,7 @@ sections:
       url: /images/main-hero.png
       altText: Unblock your world
    
-   justifyContent: center
+      justifyContent: center
       subtitle:
         textAlign: center
   - subtitle: Popular Destinations
