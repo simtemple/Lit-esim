@@ -34,12 +34,6 @@ sections:
       url: /images/main-hero.png
       altText: Unblock your world
       elementId: ''
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
