@@ -33,8 +33,7 @@ sections:
     media:
       url: /images/main-hero.png
       altText: Unblock your world
-   elementId: ''
-      type: ImageBlock
+   
    justifyContent: center
       subtitle:
         textAlign: center
