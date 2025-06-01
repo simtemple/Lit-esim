@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Unlock your world
-    text: >-
+    text: >
     Get online right after landing. Start using your data plan as soon as you arrive at your destination
     and automatically connect to the internet network upon arrival.
     actions:
