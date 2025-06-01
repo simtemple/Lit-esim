@@ -32,8 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/main-hero.png
+      altText: Unblock your world
       elementId: ''
       type: ImageBlock
     badge:
