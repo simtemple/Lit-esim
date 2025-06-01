@@ -33,7 +33,7 @@ sections:
     media:
       url: /images/main-hero.png
       altText: Unblock your world
-       elementId: ''
+      elementId: ''
       type: ImageBlock
     badge:
       label: This is a badge
