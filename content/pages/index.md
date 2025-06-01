@@ -35,22 +35,6 @@ sections:
       altText: Unblock your world
    elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
