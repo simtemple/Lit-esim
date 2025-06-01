@@ -11,7 +11,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Top Up Now",
+            "label": "eSIM",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +19,7 @@
             "type": "Link"
         },
         {
-            "label": "About Us",
+            "label": "Top Up",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
