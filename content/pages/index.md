@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Unlock your world
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Get online right after landing. Start using your data plan as soon as you arrive at your destination
+and automatically connect to the internet network upon arrival.
     actions:
       - label: Get started
         altText: ''
