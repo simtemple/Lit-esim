@@ -33,7 +33,7 @@ sections:
     media:
       url: /images/main-hero.png
       altText: Unblock your world
-    elementId: ''
+    
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
