@@ -47,7 +47,7 @@ sections:
       justifyContent: center
       subtitle:
       textAlign: center
-  - subtitle: Popular Destinations
+   - subtitle: Popular Destinations
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
