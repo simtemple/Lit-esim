@@ -1,4 +1,4 @@
----
+ ---
 title: Home
 slug: /
 sections:
