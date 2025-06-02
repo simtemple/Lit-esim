@@ -33,7 +33,7 @@ sections:
     media:
       url: /images/main-hero.png
       altText: Unblock your world
-      elementId: ''
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
