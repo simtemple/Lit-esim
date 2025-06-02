@@ -77,8 +77,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: ImageGallerySection
-- title:
+    - title:
       text: So… how does it work?
       color: text-primary
       styles:
